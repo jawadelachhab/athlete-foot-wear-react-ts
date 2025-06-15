@@ -1,0 +1,12 @@
+https://themewagon.github.io/malefashion/shop.html#
+https://bestwebcreator.com/shopwise/demo/index-6.html
+
+https://www.youtube.com/watch?v=iNRpifSNdis&list=PLejc1JbD4ZFS4sEpIpLfD18FEnEpafVbz&index=14&ab_channel=kimzcodes
+
+
+pages 
+- login => DONE
+- register => DONE
+
+
+hero => il rest dynamic
